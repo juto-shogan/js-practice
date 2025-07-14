@@ -1,0 +1,6 @@
+[
+  {"name": "luigi", "completed": false, "id": 1},
+  {"name": "mario", "completed": true, "id": 2},
+  {"name": "peach", "completed": false, "id": 3}
+ 
+]
