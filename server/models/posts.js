@@ -1,8 +1,7 @@
 const mongoose = require('mongoose');
 
 // server/models/posts.js
-const schema = mongoose.schema;
-const postSchema = new schema({
+const postSchema = new mongoose.Schema({
     title: {
         type: String,
         required: true

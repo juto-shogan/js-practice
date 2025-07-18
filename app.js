@@ -1,10 +1,14 @@
 require('dotenv').config();
 
+// server.js
+// This file sets up the Express server
 const express = require('express');
 const expressLayout = require('express-ejs-layouts');
 
+// Connects to the MongoDB database.
 const connectDB = require('./server/config/db');
 
+// Starting app
 const app = express();
 const port = 5000 || process.env.PORT;
 

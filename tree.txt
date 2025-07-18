@@ -1,0 +1,56 @@
+Folder PATH listing
+Volume serial number is 5865-DBB0
+C:.
+³   .env
+³   .gitignore
+³   app.js
+³   package-lock.json
+³   package.json
+³   README.md
+³   tree.txt
+³   
+ÃÄÄÄlearning&testing
+³   ³   index.html
+³   ³   sandbox.js
+³   ³   
+³   ÀÄÄÄtodos
+³           luigi.json
+³           mario.json
+³           shaun.json
+³           
+ÃÄÄÄpublic
+³   ÃÄÄÄcss
+³   ³       style.css
+³   ³       
+³   ÃÄÄÄimg
+³   ³       kali-light2.png
+³   ³       kali-purple.png
+³   ³       kali-red-sticker.webp
+³   ³       kali-tiles-purple.webp
+³   ³       
+³   ÀÄÄÄjs
+³           script.js
+³           
+ÃÄÄÄserver
+³   ÃÄÄÄconfig
+³   ³       db.js
+³   ³       
+³   ÃÄÄÄmodels
+³   ³       posts.js
+³   ³       
+³   ÀÄÄÄroutes
+³           main.js
+³           
+ÀÄÄÄviews
+    ³   about.ejs
+    ³   contact.ejs
+    ³   index.ejs
+    ³   
+    ÃÄÄÄlayouts
+    ³       main.ejs
+    ³       
+    ÀÄÄÄpartials
+            footer.ejs
+            header.ejs
+            search.ejs
+            
